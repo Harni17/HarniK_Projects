@@ -1,4 +1,4 @@
-package com.configxml.HarniK
+package com.configxml.HarniK;
 
 import java.io.IOException;
 import java.io.PrintWriter;
