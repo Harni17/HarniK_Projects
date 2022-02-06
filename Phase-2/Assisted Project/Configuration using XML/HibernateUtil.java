@@ -1,4 +1,4 @@
-package com.configxml.HarniK
+package com.configxml.HarniK;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;
