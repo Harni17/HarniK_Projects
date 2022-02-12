@@ -12,7 +12,7 @@
 	<groupId>com.HarniK_UserInfo</groupId>
 	<artifactId>UserManager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UserManager</name>
+	<name>UserInfo</name>
 	<description>Searching for a Specific User and Updating the User Information.</description>
 	<properties>
 		<java.version>1.8</java.version>
