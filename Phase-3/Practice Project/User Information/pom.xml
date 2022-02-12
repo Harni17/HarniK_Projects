@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.HarniK_UserInfo</groupId>
-	<artifactId>UserManager</artifactId>
+	<artifactId>UserInfo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>UserInfo</name>
 	<description>Searching for a Specific User and Updating the User Information.</description>
