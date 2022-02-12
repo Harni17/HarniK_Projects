@@ -11,7 +11,7 @@
 		<version>2.5.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.project</groupId>
+	<groupId>com.HarniK</groupId>
 	<artifactId>SportyShoes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SportyShoes</name>
