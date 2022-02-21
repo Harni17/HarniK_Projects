@@ -1,4 +1,4 @@
-package com.project.Feedback;
+package com.HarniK_Feedback;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -8,8 +8,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import com.project.Feedback.entities.Feedback;
-import com.project.Feedback.repositories.FeedbackRepository;
+import com.HarniK_Feedback.entities.Feedback;
+import com.HarniK_Feedback.repositories.FeedbackRepository;
 
 @SpringBootTest
 class FeedbackApplicationTests {
