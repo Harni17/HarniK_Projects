@@ -1,10 +1,10 @@
-package com.project.Feedback.services;
+package com.HarniK_Feedback.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.project.Feedback.entities.Feedback;
-import com.project.Feedback.repositories.FeedbackRepository;
+import com.HarniK_Feedback.entities.Feedback;
+import com.HarniK_Feedback.repositories.FeedbackRepository;
 
 @Service
 public class FeedbackService {
