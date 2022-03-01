@@ -1,0 +1,17 @@
+.about{
+    background-color: rgb(108, 125, 155);
+     padding: 40px;
+     margin: 2cm; 
+}
+.followa{
+    padding: 15px;
+    color: #000;
+    font-weight: bold;
+}
+
+.aboutp{
+    font-weight: 500;
+}
+mark{
+    font-weight: bolder;
+}

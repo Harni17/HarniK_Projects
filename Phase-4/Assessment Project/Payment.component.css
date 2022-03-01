@@ -1,0 +1,15 @@
+.payment{
+    background-color: rgb(77, 216, 186);
+}
+.input{
+
+    width: 10cm;
+    height: 1cm;
+}
+.button:hover{
+    background-color: rgb(64, 149, 230);
+}
+
+p{
+    font-weight:bolder;
+}
