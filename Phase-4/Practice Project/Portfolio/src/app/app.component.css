@@ -1,0 +1,8 @@
+.navbar{
+    background-color:rgb(18, 18, 19);
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    text-decoration:underline;
+    font-weight: 500;
+    font-size: medium;
+}

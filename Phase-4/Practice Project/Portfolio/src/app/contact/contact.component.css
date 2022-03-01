@@ -1,0 +1,11 @@
+.contact{
+    background-color: rgb(195, 218, 238);
+}
+.input{
+
+    width: 10cm;
+    height: 1cm;
+}
+.button:hover{
+    background-color: limegreen;
+}
