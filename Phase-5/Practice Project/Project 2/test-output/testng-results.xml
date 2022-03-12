@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-12T11:44:52 IST" name="Default suite" finished-at="2022-03-12T11:46:56 IST" duration-ms="124759">
+    <groups>
+    </groups>
+    <test started-at="2022-03-12T11:44:52 IST" name="Default test" finished-at="2022-03-12T11:46:56 IST" duration-ms="124759">
+      <class name="com.ecom.webapp.Testing">
+        <test-method is-config="true" signature="startbrowser()[pri:0, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:44:52 IST" name="startbrowser" finished-at="2022-03-12T11:45:11 IST" duration-ms="19709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method signature="register()[pri:1, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:45:11 IST" name="register" finished-at="2022-03-12T11:45:52 IST" duration-ms="40881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:45:52 IST" name="closeBrowser" finished-at="2022-03-12T11:45:53 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startbrowser()[pri:0, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:45:53 IST" name="startbrowser" finished-at="2022-03-12T11:46:05 IST" duration-ms="12042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method signature="login()[pri:2, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:46:05 IST" name="login" finished-at="2022-03-12T11:46:23 IST" duration-ms="18568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:46:23 IST" name="closeBrowser" finished-at="2022-03-12T11:46:23 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startbrowser()[pri:0, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:46:23 IST" name="startbrowser" finished-at="2022-03-12T11:46:36 IST" duration-ms="13080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrowser -->
+        <test-method signature="addToCart()[pri:3, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:46:36 IST" name="addToCart" finished-at="2022-03-12T11:46:56 IST" duration-ms="19820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.ecom.webapp.Testing@a3d8174]" started-at="2022-03-12T11:46:56 IST" name="closeBrowser" finished-at="2022-03-12T11:46:56 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.ecom.webapp.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
